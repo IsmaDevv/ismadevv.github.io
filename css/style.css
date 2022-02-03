@@ -50,7 +50,7 @@ body {	font-family: Arial, Helvetica, sans-serif;
 
 #site_title img {float: left}
 
-.logo {width: 960px; margin: auto; text-align: center; letter-spacing: 3px; padding: 40px 0}
+.logo {width: 960px; margin: auto; text-align: just; letter-spacing: 3px; padding: 40px 0}
 
 #social_icons {
 
