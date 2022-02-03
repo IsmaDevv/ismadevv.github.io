@@ -5,8 +5,6 @@ es
 un
 comentario*/
 
-
-
 // #Palabras Reservadas
 //alert('hola')
 // muestra un error en el inspector, porque Alert no está definida. 
