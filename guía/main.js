@@ -4,7 +4,27 @@
 es
 un
 comentario*/
+console.log('mensaje en la consola');
+console.log('esto es un string');
+console.log(10);
+console.log("10");
+console.log(-10.2);
+console.log(true);
+console.log(false);
+console.log(0 < 1);
 
+<<<<<<< Updated upstream
+=======
+// #Variables
+//let cantidad_de_pins= 10;
+//console.log("esto es x=" + cantidad_de_pins);
+//cantidad_de_pins=cantidad_de_pins -2;
+//console.log("esto es x="+ cantidad_de_pins);
+//cantidad_de_pins=cantidad_de_pins +20;
+//console.log("esto es x=" + cantidad_de_pins);
+
+
+>>>>>>> Stashed changes
 // #Palabras Reservadas
 //alert('hola')
 // muestra un error en el inspector, porque Alert no está definida. 
